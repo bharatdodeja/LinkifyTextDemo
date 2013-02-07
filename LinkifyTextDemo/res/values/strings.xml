@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Linkify Text Demo</string>
+    <string name="sample_text">This is a sample text for linkify demo, View More</string>
+    <string name="view_more">View more</string>
+</resources>
